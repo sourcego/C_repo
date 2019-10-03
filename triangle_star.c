@@ -12,3 +12,10 @@ void main()
 		}
 		printf("\n");	}
 }
+/*
+print like this if input is 5
+*
+**
+***
+****
+*****
