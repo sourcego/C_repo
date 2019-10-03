@@ -20,7 +20,7 @@ for(i=a+1;i<b;i++)
 	
 	if(sum==i)
 	{
-		printf("%d",i);
+		printf("%d\n",i);
 		
 	}
 	
